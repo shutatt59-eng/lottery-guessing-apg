@@ -1,1 +1,1 @@
-# lottery-guessing-apg
+# lottery-guessing-app
